@@ -43,6 +43,7 @@
 <h2>Trade Justice</h2>
 <p>
 	<a href="https://www.tjm.org.uk/">Trade Justice Movement</a><br />
+	<a href="https://traidcraftexchange.org/">Traidcraft Exchange</a><br />
 	<a href="http://www.christian-aid.org.uk">Christian Aid</a><br /> <a
 		href="http://www.cafod.org.uk">CAFOD</a><br /> <a
 		href="http://www.globaljustice.org.uk/">Global Justice Now (formerly
