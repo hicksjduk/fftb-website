@@ -12,7 +12,7 @@ date_default_timezone_set("Europe/London")
 <head>
 <title>Fareham Fairtrade Borough Working Group</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-<meta name="GENERATOR" content="Rational Software Architect" />
+<meta name="site" content="heroku" />
 <link href="fftb.css" rel="stylesheet" type="text/css" />
 <script language="javascript" src="fftb.js" type="text/javascript"></script>
 </head>
