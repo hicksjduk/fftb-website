@@ -11,15 +11,14 @@
 <p>
 	<a href="http://www.fairtradeinhampshire.org.uk/">Hampshire Fairtrade
 		Network</a><br />
-	<a href="http://www.portsmouthfairtrade.org.uk/">Portsmouth Fairtrade
-		Forum</a><br /> <a href="http://www.portsmouthfairtrade.org.uk/">Fair
-		Trade Havant</a><br /> <a
+	<a href="http://www.campaign.exchange/groups/fair-trade-portsmouth/">Portsmouth Fairtrade
+		Forum</a><br /> <a href="http://www.campaign.exchange/groups/havant-borough-fairtrade-forum/">Havant Borough Fairtrade Forum</a><br /> <a
 		href="https://www.eastleigh.gov.uk/climate-change-and-environment/what-the-council-is-doing/fairtrade-borough">Fairtrade in
 		Eastleigh Borough</a><br /> <a
 		href="http://www.iowfairtradeforum.org.uk/">Isle of Wight Fairtrade
 		Forum</a><br /> <a href="http://www.winchesterfairtrade.org.uk/">Winchester
 		City Fairtrade Network</a><br /> <a
-		href="http://www.portsmouthfairtrade.org.uk/gfa.htm">Gosport Fairtrade
+		href="https://www.gosportfairtradeaction.org.uk/">Gosport Fairtrade
 		Action</a>
 </p>
 <h2>Fairtrade suppliers and retailers</h2>
