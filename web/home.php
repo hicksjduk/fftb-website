@@ -1,24 +1,22 @@
 
 <h1>Fareham - a Fairtrade Borough!</h1>
-<!--
 <div class="boxed">
 <table>
 <tr>
 <td>
-<img src="images/certificateNov18.jpg">
+<img src="images/ftf21/poster.jpg" height="500">
 </td>
 <td>
-<p><b>We held a successful stall for <a href="page.php?id=ftf19stall">Fairtrade Fortnight 2019</a> on Saturday
-2nd March.</b> Click the link for photos of the event.
-<p>
-<b>Fareham's Fairtrade status has been renewed for another two years, until 2020.</b>
-<br>
-Many thanks to everyone whose hard work and support has made this possible.
-</p>
+<p><b>Fairtrade Fortnight 2021 runs from 22nd February to 7th March.</b>
+<p>Due to the restrictions caused by the pandemic, we will not be running a stall in town this year.
+However, we have created <a href="page.php?id=ftf21quiz">a Fairtrade quiz</a>
+which you are welcome to use and distribute.
+<p>Please <a href="docs/ftf21.pdf">look at this document</a> for more information about the theme, and how you can get involved
+locally.
+<p><i>And of course, please celebrate Fairtrade Fortnight by choosing to buy Fairtrade products!</i>
 </td></tr>
 </table>
 </div>
--->
 <h2>Welcome!</h2>
 <p>
 	We are the local steering group for Fairtrade in the Borough of
@@ -35,7 +33,7 @@ Many thanks to everyone whose hard work and support has made this possible.
 	hoping to find something here that isn't present, please
 	<?= (new Mailto ( "fftb.website", "thehickses.org.uk" ))->setDescription ( "FFTB Webmaster" )->getMailtoCall ( "let us know" ) ?>.
 </p>
-<div style="float: left"><img src="images/ftlogo.jpg" width="91" height="103"/></div>
+<div style="float: left"><img src="images/ftlogo.jpg" /></div>
 <div style="margin-left: 110px">
 <p>
 	Fairtrade goods are those which carry the Fairtrade Mark (left), which

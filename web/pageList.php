@@ -29,6 +29,7 @@ $pages = array(
 		'ftf18stall' => 'gallery/ftf18stall.php',
 		'ftf19stall' => 'gallery/ftf19stall.php',
 		'ftf20stall' => 'gallery/ftf20stall.php',
+		'ftf21quiz' => 'ftf21quiz.php',
 		'shop' => 'gallery/shop.php',
 		'teaparty08' => 'gallery/teaparty08.php',
 );
