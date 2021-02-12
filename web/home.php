@@ -11,8 +11,13 @@
 <p>Due to the restrictions caused by the pandemic, we will not be running a stall in town this year.
 However, we have created <a href="page.php?id=ftf21quiz">a Fairtrade quiz</a>
 which you are welcome to use and distribute.
-<p>Please <a href="docs/ftf21.pdf">look at this document</a> for more information about the theme, and how you can get involved
-locally.
+<p>Please <a href="docs/ftf21.pdf">look at this document</a> for more information about the theme.
+<p>The Fairtrade Foundation is holding an online festival of Fairtrade during the Fortnight: 
+<a href="https://action.fairtrade.org.uk/page/73941/subscribe/1?ea.tracking.id=fthp2021">click here
+</a> to sign up for details.
+<p>The South East Hampshire Fairtrade group (of which Fareham is a part) is hosting a Zoom event on Monday 1st
+March at 6.30pm. Adam Gardner from the Fairtrade Foundation will be speaking and answering questions. 
+To join, <a href="https://www.eventbrite.co.uk/e/climate-fairtrade-and-you-tickets-140578583327">book your place here</a>.
 <p><i>And of course, please celebrate Fairtrade Fortnight by choosing to buy Fairtrade products!</i>
 </td></tr>
 </table>
