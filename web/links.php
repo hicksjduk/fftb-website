@@ -9,21 +9,25 @@
 </p>
 <h2>Local Fairtrade groups</h2>
 <p>
-	<a href="http://www.fairtradeinhampshire.org.uk/">Hampshire Fairtrade
+	<a href="https://hantsfairtrade.herokuapp.com/">Hampshire Fairtrade
 		Network</a><br />
+	<!--
 	<a href="http://www.campaign.exchange/groups/fair-trade-portsmouth/">Portsmouth Fairtrade
-		Forum</a><br /> <a href="http://www.campaign.exchange/groups/havant-borough-fairtrade-forum/">Havant Borough Fairtrade Forum</a><br /> <a
-		href="https://www.eastleigh.gov.uk/climate-change-and-environment/what-the-council-is-doing/fairtrade-borough">Fairtrade in
-		Eastleigh Borough</a><br /> <a
-		href="http://www.iowfairtradeforum.org.uk/">Isle of Wight Fairtrade
-		Forum</a><br /> <a href="http://www.winchesterfairtrade.org.uk/">Winchester
-		City Fairtrade Network</a><br /> <a
-		href="https://www.gosportfairtradeaction.org.uk/">Gosport Fairtrade
+		Forum</a><br /> 
+	<a href="http://www.campaign.exchange/groups/havant-borough-fairtrade-forum/">Havant Borough Fairtrade Forum</a><br /> 
+	-->
+	<a href="https://www.eastleigh.gov.uk/climate-change-and-environment/what-the-council-is-doing/fairtrade-borough">Fairtrade in
+		Eastleigh Borough</a><br /> 
+	<a href="http://www.iowfairtradeforum.org.uk/">Isle of Wight Fairtrade
+		Forum</a><br /> 
+	<a href="http://www.winchesterfairtrade.org.uk/">Winchester
+		City Fairtrade Network</a><br /> 
+	<a href="https://www.gosportfairtradeaction.org.uk/">Gosport Fairtrade
 		Action</a>
 </p>
 <h2>Fairtrade suppliers and retailers</h2>
 <p>
-	<a href="http://www.shopequality.co.uk/">Shop Equality - a
+	<a href="https://www.facebook.com/ShopEqualityEastleigh/">Shop Equality - a
 		Fairtrade shop in Eastleigh</a><br /> 
 	<a href="http://www.traidcraft.com">Traidcraft</a><br /> <a
 		href="http://www.cafedirect.co.uk/">Caf&eacute;direct</a><br /> <a

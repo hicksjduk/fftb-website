@@ -4,29 +4,26 @@
 <table>
 <tr>
 <td>
-<img src="images/ftf22/ftf22.jpg" height="300">
-</td>
-<td>
-<p><b>Fairtrade Fortnight 2022 runs from 21st February to 6th March.</b>
-<p>We had a stall in Fareham Shopping Centre on Saturday 19th February.
-We gave out free Fairtrade bananas and chocolates, and had some good
-conversations with those who passed by. We were grateful, as ever, for
-the support of local councillors, including the Mayor of Fareham, Cllr
-Pam Bryant; the Mayoress, Cllr Louise Clubley; the Executive Leader of the
-Borough Council, Cllr Se&aacute;n Woodward; and Cllr Katrina Trott.
+<p><b>The Fareham Fairtrade Borough Working Group has disbanded</b>
+<p>It is with a mixture of sadness at an ending, but also satisfaction with a job well done, 
+that the Fairtrade Borough working group in Fareham has decided to disband.
+<p>We came together in 2005, as a group of people with a heart for Fairtrade and a desire to promote it in
+our borough, and we part now just the same. However, we are no longer convinced that having Fairtrade status for the 
+borough (which we first achieved in February 2007, and have maintained ever since) is important to that mission, 
+or worth the time and effort which our dwindling band is able to put in. 
+We will continue to support and promote Fairtrade whenever and wherever we can; but we will not be applying for the renewal
+of Fareham's Fairtrade Borough status when it next falls due, which we expect to be in November 2023.
+<p>We remain available to answer questions about Fairtrade, and to give talks to community groups: contact details
+	are available on <a href="?id=contacts">the Contacts page</a>.
 </td></tr>
 </table>
 </div>
 <h2>Welcome!</h2>
 <p>
-	We are the local steering group for Fairtrade in the Borough of
-	Fareham, Hampshire - one of over 400 groups registered with the <a
-		href="http://www.fairtrade.org.uk">Fairtrade Foundation</a> under the
-	Fairtrade Towns initiative. Our objective is to promote Fairtrade in
-	Fareham, to encourage more people to buy Fairtrade goods, and more
+	Our objective is to promote Fairtrade in the borough of 
+	Fareham, Hampshire; to encourage more people to buy Fairtrade goods, and more
 	retailers and catering establishments to sell them. Fareham has been a
-	Fairtrade Borough, fulfilling the five criteria to be recognised as a
-	Fairtrade Town, since 2007.
+	Fairtrade Borough since 2007.
 </p>
 <p>
 	Please use the links on the left to explore our website. If you were

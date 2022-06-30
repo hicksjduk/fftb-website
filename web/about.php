@@ -12,8 +12,4 @@ the aim of promoting Fairtrade in Fareham and fulfilling the five
 criteria for a Fairtrade Town. This aim was achieved in February 2007
 with the recognition of Fareham as a Fairtrade Borough, and we have
 successfully renewed our Fairtrade Borough status at two-yearly intervals
-from 2008 to 2018.</p>
-<p>Our membership is drawn mainly from the churches of the borough,
-although we welcome co-operation with all who are interested in
-promoting Fairtrade. We meet at regular intervals to plan our activities
-and celebrate our achievements, and all are welcome to these meetings.</p>
+from 2008 to 2020. The group disbanded in 2022.</p>
